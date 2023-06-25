@@ -1,0 +1,71 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Engineer
+# your company information
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: "I am a fresh graduate in computer science, which I am fascinated by. I try to keep up to date with the news in the world of programming, especially about the web industry. I am constantly learning new things."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "danielopyd99@gmail.com"
+
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://www.github.com/opyd"
+
+  - name: Linkedin
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/opyd/"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+  - title: "My Resume"
+    url: "files/Daniel_Opyd_Resume_ENG.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+  - type: certification
+    name: Google Cloud Certifications
+    url: "https://www.cloudskillsboost.google/public_profiles/2bc23be8-4d56-4d94-94a3-e49f9ec9b940"
+    badge: "https://me.devoteam.com/wp-content/uploads/sites/10/2021/02/google-cloud-logo.svg"
+
+  - type: soft-skill-indicator
+    name: Hard Working
+    percentage: 95
+    color: orange
+
+  - type: soft-skill-indicator
+    name: Teamwork
+    percentage: 85
+    color: blue
+
+  - type: soft-skill-indicator
+    name: Creativity
+    percentage: 80
+    color: yellow
+
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
