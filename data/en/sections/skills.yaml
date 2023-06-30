@@ -11,51 +11,39 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-  - name: JavaScript
-    logo: /images/sections/skills/js.png
-    summary: "Strong understanding of JavaScript concepts, including closures, asynchronous programming, and ES6+ syntax."
-    url: "https://www.javascript.com/"
+- name: Kubernetes
+  logo: /images/sections/skills/kubernetes.png
+  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  url: "https://kubernetes.io/"
 
-  - name: TypeScript
-    logo: /images/sections/skills/ts.png
-    summary: "Good understanding of TypeScript syntax and concepts, including interfaces, classes, generics, and modules."
-    url: "https://www.typescriptlang.org/"
+- name: Go Development
+  logo: /images/sections/skills/go.png
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  url: "https://golang.org/"
 
-  - name: Vue
-    logo: /images/sections/skills/vue.svg
-    summary: "Skilled in using Vue.js to create complex and responsive web applications. Familiarity  with Vue.js tooling and libraries, including Vuex for state management and Vue Router for client-side routing. Experience with Nuxt.js "
-    url: "https://vuejs.org/"
+- name: Cloud Computing
+  logo: /images/sections/skills/cloud.png
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
 
-  - name: NestJS
-    logo: /images/sections/skills/nest.svg
-    summary: "Skilled in using NestJS to create modular and maintainable code. Experience with Nest CLI and ODM like Mongoose for database integration, and Swagger for API documentation. "
-    url: "https://nestjs.com/"
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  url: "https://www.docker.com/"
 
-  - name: Laravel
-    logo: /images/sections/projects/Laravel.png
-    summary: "Familiarity with Laravel, a PHP framework. Ability to use Laravel to build simple web applications with CRUD functionality and database integration."
-    url: "https://laravel.com/"
+- name: Prometheus
+  logo: /images/sections/skills/prometheus.png
+  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  url: "https://prometheus.io/"
 
-  - name: Databases (SQL and NoSQL)
-    logo: /images/sections/skills/db.png
-    summary: "Capable of design and maintain databases, including MySQL, MS SQL, PostgreSQL and MongoDB"
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
 
-  - name: Docker
-    logo: /images/sections/skills/docker.svg
-    summary: "Using dockerized programs and writing own docker-files."
-    url: "https://www.docker.com/"
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  url: "https://git-scm.com/"
 
-  - name: Linux
-    logo: /images/sections/skills/linux.png
-    summary: "Using as the second main operating system."
-
-  - name: Git
-    logo: /images/sections/skills/git.png
-    summary: "Familiar with git-based workflow."
-    url: "https://git-scm.com/"
-
-  
-
-  - name: Other
-    logo: /images/sections/skills/more.png
-    summary: "Familiar with Java, Java Spring, ASP.NET and Python"
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
