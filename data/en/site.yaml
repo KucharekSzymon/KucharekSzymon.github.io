@@ -15,8 +15,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Daniel Opyd
+  title: Szymon's Portfolio
   type: website
-  description: Portfolio of Daniel Opyd.
+  description: Portfolio of Szymon Kucharek.
   image: images/author/john.png
-  url: https://Opyd.github.io
+  url: https://kucharekszymon.github.io
