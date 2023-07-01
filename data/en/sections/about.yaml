@@ -16,38 +16,33 @@ designation: Software Engineer
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am a fresh graduate in computer science, which I am fascinated by. I try to keep up to date with the news in the world of programming, especially about the web industry. I am constantly learning new things."
+summary: "Welcome to my portfolio webpage! I'm a fresh computer science graduate with a boundless passion for technology and software. As an avid enthusiast, I immerse myself in the ever-evolving world of technology, constantly seeking to expand my knowledge and skills. From exploring the latest software advancements to diving into exciting IT projects, I find great joy in all things tech-related. Outside of the digital realm, I indulge in various hobbies that allow me to unleash my creativity and hands-on skills. Whether it's tinkering with gadgets, delving into 3D printing, or immersing myself in the world of motorization, including cars and motorcycles, I'm always eager to push boundaries and bring ideas to life. "
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
   - name: Email
     icon: "fas fa-envelope"
-    url: "danielopyd99@gmail.com"
+    url: "skucharek2@gmail.com"
 
   - name: Github
     icon: "fab fa-github"
-    url: "https://www.github.com/opyd"
+    url: "https://www.github.com/KucharekSzymon"
 
   - name: Linkedin
     icon: "fab fa-linkedin"
-    url: "https://www.linkedin.com/in/opyd/"
+    url: "https://www.linkedin.com/in/KucharekSzymon/"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
   - title: "My Resume"
-    url: "files/Daniel_Opyd_Resume_ENG.pdf"
+    url: "files/Szymon_Kucharek_Resume_ENG.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-  - type: certification
-    name: Google Cloud Certifications
-    url: "https://www.cloudskillsboost.google/public_profiles/2bc23be8-4d56-4d94-94a3-e49f9ec9b940"
-    badge: "https://me.devoteam.com/wp-content/uploads/sites/10/2021/02/google-cloud-logo.svg"
-
   - type: soft-skill-indicator
     name: Hard Working
     percentage: 95
@@ -55,17 +50,10 @@ badges:
 
   - type: soft-skill-indicator
     name: Teamwork
-    percentage: 85
+    percentage: 90
     color: blue
 
   - type: soft-skill-indicator
     name: Creativity
-    percentage: 80
+    percentage: 85
     color: yellow
-
-
-# you can also provide color code instead of the color name
-# - type: soft-skill-indicator
-#   name: Example 1
-#   percentage: 75
-#   color: "#00adb5"
