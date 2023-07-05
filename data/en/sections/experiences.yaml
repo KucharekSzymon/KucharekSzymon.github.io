@@ -11,16 +11,26 @@ section:
 # Your experiences
 experiences:
   - company:
-      name: MaxWebStudio
-      url: "http://maxwebstudio.eu/en/"
-      location: Remote (Gdynia, Poland)
-      overview: Websites, presentations of facilities and services, Internet marketing
+      name: Logos Media (Weni Solution).
+      url: "https://weni.eu/"
+      location: Nysa, Poland
+      # company overview
+      overview: Weni Solution is a manufacturer of industrial CNC laser equipment
     positions:
-      - designation: "Web developer - creating interactive travel guides"
-        start: October 2022
+      - designation: Junior Web Developer
+        start: September 2021
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
         end: January 2023
+        # give some points about what was your responsibilities at the company.
         responsibilities:
-        - Creating and maintaining panoramic travel guides for a client in the US
+        -  Developed and maintained company websites, ensuring functionality, usability, and visual appeal.
+        -  Managed servers to optimize performance, security, and efficient utilization.
+        -  Oversaw camera systems, ensuring proper functioning and addressing technical issues.
+        -  Provided support for the company's email system, including configuration and troubleshooting.
+        -  Monitored user interactions with websites to identify trends and optimize user experience.
+        -  Maintained accurate stock records and managed the visibility and technical details of lasers on WooCommerce and PrestaShop platforms.
+        -  Offered technical assistance and guidance to colleagues across the organization.
+        -  Maintained and updated the company's IT infrastructure, including networking equipment and software licenses.
   - company:
       name: Logos Media (Weni Solution).
       url: "https://weni.eu/"
@@ -28,13 +38,14 @@ experiences:
       # company overview
       overview: Weni Solution is a manufacturer of industrial CNC laser equipment
     positions:
-      - designation: Intern - Documentation maintainer for CNC laser equipment
+      - designation: Intern - Online inventory maintainer for CNC laser equipment and web development
         start: July 2021
         # don't provide end date if you are currently working there. It will be replaced by "Present"
-        end: September 2022
+        end: August 2021
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Create, update and translate technical documentation for industrial laser equipment.
-          - Design and develop a program to estimate laser resource consumption in WPF (C#)
+          - Updating inventory records on websides bades on Wordpress and PrestaShop, coordintaing with company service and maintaining documentation.
+          - Design and develop a HTML / JS / CSS / PHP elements in WordPress.
+          - Monitoring trends based on users activity.
   
 
