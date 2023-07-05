@@ -19,13 +19,11 @@ projects:
   - name: Simple Electron database client
     logo: /images/sections/projects/electron.png
     repo: https://github.com/KucharekSzymon/simple-postgreSQL-electron-client
-    #url: ""
     summary: This is a semester project that involved creating a client application specifically designed to interact with a PostgreSQL database. The application enables users to perform all four basic CRUD operations (Create, Read, Update, Delete) on the database.
     tags: ["academic", "electron", "javascript", "PostgreSQL"]
 
   - name: QuizzApp
     logo: /images/sections/projects/Laravel.png
     repo: https://github.com/KucharekSzymon/QuizzApp
-    #url: ""
     summary: QuizzApp is a dockerized quiz application created in Laravel, an MVC PHP framework, that provides a seamless quiz experience for teachers and students.
     tags: ["academic", "php", "laravel", "sql", "docker"]
