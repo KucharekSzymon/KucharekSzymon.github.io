@@ -30,12 +30,12 @@ projects:
 
   - name: Java-servlets-forum
     logo: /images/sections/projects/java.png
-    repo: https://github.com/your-username/Java-servlets-forum
+    repo: https://github.com/KucharekSzymon/Java-servlets-forum
     summary: Web application developed using JEE (Java Enterprise Edition) with the use of JSP, filters, and servlets. It provides a platform for users to engage in discussions, post topics, and interact with other forum members. This project was developed as part of my semester project to learn Java Servlets.
     tags: ["Java", "servlets", "forum", "filters"]
 
   - name: RPG-manager
     logo: /images/sections/projects/vue.png
-    repo: https://github.com/your-username/RPG-manager
+    repo: https://github.com/KucharekSzymon/RPG-manager
     summary: Frontend repository of the Vue RPG Game Planning App, which is designed to work with the backend server developed in NestJS. The app provides a user interface for planning paper RPG games and utilizes the REST API provided by the backend server.
     tags: ["Vue", "RPG", "game", "planning"]
