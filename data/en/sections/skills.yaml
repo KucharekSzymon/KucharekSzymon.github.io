@@ -13,57 +13,57 @@ section:
 skills:
   - name: JavaScript
     logo: /images/sections/skills/js.png
-    summary: "Strong understanding of JavaScript concepts, including closures, asynchronous programming, and ES6+ syntax."
+    summary: "Possessing a deep comprehension of JavaScript concepts, including closures, asynchronous programming, and ES6+ syntax."
     url: "https://www.javascript.com/"
 
   - name: TypeScript
     logo: /images/sections/skills/ts.png
-    summary: "Good understanding of TypeScript syntax and concepts, including interfaces, classes, generics, and modules."
+    summary: "Demonstrating a solid grasp of TypeScript syntax and concepts, encompassing interfaces, classes, generics, and modules."
     url: "https://www.typescriptlang.org/"
 
   - name: NestJS
     logo: /images/sections/skills/nest.svg
-    summary: "Strongly skilled in using NestJS to create modular and maintainable code. Experience with Nest CLI and ODM like Mongoose for database integration, Swagger for API documentation and build in securities as well as JWT tokens."
+    summary: "Showcasing strong expertise in utilizing NestJS to develop modular and maintainable code. Proficient in working with Nest CLI, integrating ODMs like Mongoose for seamless database integration, and implementing secure practices such as JWT tokens."
     url: "https://nestjs.com/"
 
   - name: Vue
     logo: /images/sections/skills/vue.svg
-    summary: "Skilled in using Vue.js to create complex and responsive web applications. Familiarity  with Vue.js tooling and libraries, including Vuex for state management and Vue Router for client-side routing. Experience with Vue.js 3."
+    summary: "Proficiently utilizing Vue.js to create sophisticated and responsive web applications. Well-versed in Vue.js tooling and libraries, including Vuex for effective state management and Vue Router for seamless client-side routing. Experienced with Vue.js 3."
     url: "https://vuejs.org/"
 
   - name: Laravel
     logo: /images/sections/projects/Laravel.png
-    summary: "Familiarity with Laravel, a PHP framework. Ability to use Laravel to build simple web applications with CRUD functionality and database integration."
+    summary: "Familiarity with Laravel, a powerful PHP framework, and utilizing it to construct straightforward web applications with CRUD functionality and seamless database integration."
     url: "https://laravel.com/"
 
   - name: Databases (SQL and NoSQL)
     logo: /images/sections/skills/db.png
-    summary: "Capable of design and maintain databases, including MySQL, MS SQL, PostgreSQL and MongoDB"
+    summary: "Competently designing and maintaining databases, spanning MySQL, MS SQL, PostgreSQL, and MongoDB."
 
   - name: Docker
     logo: /images/sections/skills/docker.svg
-    summary: "Using dockerized programs and writing own docker-files."
+    summary: "Proficiently employing dockerized programs and adept at crafting custom dockerfiles."
     url: "https://www.docker.com/"
 
   - name: WordPress
     logo: /images/sections/skills/wordpress.png
-    summary: "Almost two year of expireince building and maintainging websides and shops made in WordPress with plugins."
+    summary: "Accumulating nearly two years of experience in building and maintaining WordPress websites and shops, leveraging a variety of plugins."
     url: "https://wordpress.com/"
 
   - name: PrestaShop
     logo: /images/sections/skills/prestashop.png
-    summary: "Familiar with the keeping track of store inventory and editing PrestaShop HTML templates."
+    summary: "Well-acquainted with managing store inventory and customizing PrestaShop HTML templates."
     url: "https://prestashop.com/"
 
   - name: Linux
     logo: /images/sections/skills/linux.png
-    summary: "Using as main operating system for work. Daily driving Manjaro and familiar with Debian family."
+    summary: "Leveraging Linux as the primary operating system, with expertise in daily usage of Manjaro and familiarity with the Debian family."
 
   - name: Git
     logo: /images/sections/skills/git.png
-    summary: "Familiar with git-based workflow."
+    summary: "Familiarity with the efficient workflow and practices associated with version control using Git."
     url: "https://git-scm.com/"
 
   - name: Others
     logo: /images/sections/skills/more.png
-    summary: "Familiar with Java, Java Spring, ASP.NET, Fusion360 and InsERT family."
+    summary: "Familiarity with Java, Java Spring, ASP.NET, Fusion360, and the InsERT family of technologies."
